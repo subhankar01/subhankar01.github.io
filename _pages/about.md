@@ -17,9 +17,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am Subhankar Sen, a final year Bachelor of Technology (B.Tech) student majoring in Computer Science and Engineering (CSE) at Manipal University Jaipur, India. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary research objective and interest inhere at the intersection of Computer Vision and Deep Learning, with the intent of developing meaningful insights for image and video understanding tasks. My undergraduate research experience to date encompasses fields such as Medical Imaging, Human Action Recognition, Temporal Activity Localization, and Surgical Robotics. In addition, my past experiences have given me ample scope for exploring and developing a solid grasp of generative learning and multimodal analysis. My long-term goal is to build machines ingrained with a sense of vision and perception that will enable them to one day understand the world as seamlessly and intuitively as humans and other living creatures do. Additionally, my future research interests lie in extending my skills and knowledge to a multitude of applications in transportation, retail, sports, surveillance systems, and autonomous robotics.
